@@ -15,5 +15,5 @@ This game is a text-based adventure built in Java where the player navigates thr
 2. **Navigate**: Use the W, A, S, D keys to move your character.
 3. **View Stats**: Type `stats` to check your health, gold, and inventory.
 4. **Equip Items**: Use `equip` to equip a weapon from your inventory.
-5. **Interact**: Approach NPCs to buy items or heal.
+5. **Interact**: Approach NPCs to buy items or heal.<br>
 ![image](https://github.com/user-attachments/assets/70238d3a-1dcc-4768-9241-aef3204fb5b9)

@@ -11,7 +11,7 @@ This game is a text-based adventure built in Java where the player navigates thr
 - **Game Board**: Explore a randomly generated board with walls, water, and various game elements.
 
 ## How to Play
-1. **Start the Game**: Run the `Game` class.
+1. **Start the Game**: Run the `Main` class.
 2. **Navigate**: Use the W, A, S, D keys to move your character.
 3. **View Stats**: Type `stats` to check your health, gold, and inventory.
 4. **Equip Items**: Use `equip` to equip a weapon from your inventory.

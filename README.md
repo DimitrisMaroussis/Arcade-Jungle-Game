@@ -12,18 +12,7 @@ This game is a text-based adventure built in Java where the player navigates thr
 
 ## How to Play
 1. **Start the Game**: Run the `Game` class.
-2. **Navigate**: Use the WASD keys to move your character.
+2. **Navigate**: Use the W, A, S, D keys to move your character.
 3. **View Stats**: Type `stats` to check your health, gold, and inventory.
 4. **Equip Items**: Use `equip` to equip a weapon from your inventory.
 5. **Interact**: Approach NPCs to buy items or heal.
-
-## Requirements
-- Java 8 or above
-
-## Installation
-Clone this repository and compile the `Game.java` file:
-```bash
-git clone https://github.com/yourusername/jungle-adventure-game.git
-cd jungle-adventure-game
-javac Game.java
-java Game

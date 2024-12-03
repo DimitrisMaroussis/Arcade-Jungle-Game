@@ -1,11 +1,29 @@
-# Arcade-Jungle-Game
-This is a text-based adventure game that takes you on an epic journey through a treacherous jungle filled with monsters, treasures, and challenges. Your goal is to survive, build your strength, and defeat the ultimate boss.
+# Jungle Adventure Game
 
-# About the Game
-### This game is a turn-based RPG where players traverse a jungle represented by a grid. Each grid cell may contain walls, treasures, monsters, or friendly NPCs. Players can:
-Explore the map
-Fight enemies
-Collect gold and items
-Trade with vendors
-Heal through interactions with healers
-The ultimate goal? Make your way through the jungle and defeat the mighty boss!
+## Overview
+This game is a text-based adventure built in Java where the player navigates through a jungle, fights monsters, collects treasures, and battles the final boss. Players control a party of characters, each with their own strengths and abilities.
+
+## Features
+- **Combat System**: Engage in battles with monsters, including Orks and Dragons.
+- **NPC Interaction**: Meet vendors and healers that help the player on their journey.
+- **Gold Collection**: Pick up gold to purchase items and upgrade equipment.
+- **Inventory Management**: Equip weapons and armor to boost your character's stats.
+- **Game Board**: Explore a randomly generated board with walls, water, and various game elements.
+
+## How to Play
+1. **Start the Game**: Run the `Game` class.
+2. **Navigate**: Use the WASD keys to move your character.
+3. **View Stats**: Type `stats` to check your health, gold, and inventory.
+4. **Equip Items**: Use `equip` to equip a weapon from your inventory.
+5. **Interact**: Approach NPCs to buy items or heal.
+
+## Requirements
+- Java 8 or above
+
+## Installation
+Clone this repository and compile the `Game.java` file:
+```bash
+git clone https://github.com/yourusername/jungle-adventure-game.git
+cd jungle-adventure-game
+javac Game.java
+java Game
